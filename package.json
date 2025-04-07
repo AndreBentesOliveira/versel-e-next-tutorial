@@ -1,0 +1,25 @@
+{
+  "name": "versel-e-next-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreBentesOliveira/versel-e-next-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreBentesOliveira/versel-e-next-tutorial/issues"
+  },
+  "homepage": "https://github.com/AndreBentesOliveira/versel-e-next-tutorial#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.2.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
